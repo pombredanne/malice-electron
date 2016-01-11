@@ -20,7 +20,9 @@ coverage
 .lock-wscript
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
-build/Release
+builds/malice-darwin-x64
+builds/malice-linux-x64
+builds/malice-win32-x64
 
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
