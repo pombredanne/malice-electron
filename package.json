@@ -1,10 +1,10 @@
 {
   "name": "malice",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Open Source Malware Analysis Framework",
-  "license" : "MIT",
-  "repository": "https:&#x2F;&#x2F;github.com&#x2F;maliceio&#x2F;malice-electron",
-  "main": "src/main.js",
+  "license" : "Apache-2.0",
+  "repository": "https://github.com/maliceio/malice-electron",
+  "main": "src/browser/app.js",
   "scripts": {
     "build": "grunt build",
     "start": "electron .",
